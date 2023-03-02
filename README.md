@@ -1,3 +1,3 @@
 # Lucash5.github.io
 
-olen huono
+olen paras
